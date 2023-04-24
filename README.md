@@ -6,7 +6,7 @@ React Native
 
 ## Sobre
 
-O project **Ignite Quiz** é um aplicativo de base de um Quiz onde o objetivo era aprender sobre animações usando **React Native**. Foi um projeto aprendido em aula no curso **Bootcamp Ignite da RocketSeat**.
+O projeto **Ignite Quiz** é um aplicativo de base de um Quiz onde o objetivo era aprender sobre animações usando **React Native**. Foi um projeto aprendido em aula no curso **Bootcamp Ignite da RocketSeat**.
 
 ---
 
